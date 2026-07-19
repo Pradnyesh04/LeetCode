@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pradnyesh04/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Pradnyesh04/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
