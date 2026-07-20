@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradnyesh04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1260-shift-2d-grid](https://github.com/Pradnyesh04/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnyesh04/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pradnyesh04/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradnyesh04/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Pradnyesh04/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pradnyesh04/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pradnyesh04/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Pradnyesh04/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
