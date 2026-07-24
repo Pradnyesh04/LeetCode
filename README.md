@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pradnyesh04/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradnyesh04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0217-contains-duplicate](https://github.com/Pradnyesh04/LeetCode/tree/master/0217-contains-duplicate) |
 | [1260-shift-2d-grid](https://github.com/Pradnyesh04/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnyesh04/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pradnyesh04/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pradnyesh04/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradnyesh04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Pradnyesh04/LeetCode/tree/master/0217-contains-duplicate) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pradnyesh04/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Pradnyesh04/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Pradnyesh04/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
