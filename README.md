@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pradnyesh04/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradnyesh04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/Pradnyesh04/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Pradnyesh04/LeetCode/tree/master/0217-contains-duplicate) |
 | [1260-shift-2d-grid](https://github.com/Pradnyesh04/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnyesh04/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pradnyesh04/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradnyesh04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Pradnyesh04/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Pradnyesh04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pradnyesh04/LeetCode/tree/master/0242-valid-anagram) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pradnyesh04/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradnyesh04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Pradnyesh04/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/Pradnyesh04/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Pradnyesh04/LeetCode/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pradnyesh04/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Pradnyesh04/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pradnyesh04/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Pradnyesh04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pradnyesh04/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
