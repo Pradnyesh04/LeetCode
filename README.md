@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pradnyesh04/LeetCode/tree/master/0002-add-two-numbers) |
+| [0836-rectangle-overlap](https://github.com/Pradnyesh04/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnyesh04/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradnyesh04/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Dynamic Programming
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Pradnyesh04/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Pradnyesh04/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
