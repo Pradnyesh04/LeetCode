@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pradnyesh04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Pradnyesh04/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1260-shift-2d-grid](https://github.com/Pradnyesh04/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pradnyesh04/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnyesh04/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pradnyesh04/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradnyesh04/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pradnyesh04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pradnyesh04/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Pradnyesh04/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pradnyesh04/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pradnyesh04/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pradnyesh04/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pradnyesh04/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradnyesh04/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradnyesh04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pradnyesh04/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pradnyesh04/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradnyesh04/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Pradnyesh04/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Stack
 |  |
 | ------- |
