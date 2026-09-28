@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradnyesh04/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Pradnyesh04/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Pradnyesh04/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Pradnyesh04/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Pradnyesh04/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Pradnyesh04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Pradnyesh04/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pradnyesh04/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Pradnyesh04/LeetCode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Pradnyesh04/LeetCode/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/Pradnyesh04/LeetCode/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Pradnyesh04/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Pradnyesh04/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Pradnyesh04/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pradnyesh04/LeetCode/tree/master/0242-valid-anagram) |
